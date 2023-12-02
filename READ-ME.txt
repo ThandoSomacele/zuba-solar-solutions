@@ -1,9 +1,11 @@
-  =>  Template Name    : Zuba Solar Solutions - Empowering Homes, Energizing Lives
+  =>  Template Name    : Solarcel Energy Solutions - Empowering Homes, Energizing Lives.
 
-  =>  Template Link    : https://htmlcodex.com/renewable-energy-website-template
+  =>  Template Link    : https://htmlcodex.com/solar-energy-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
   =>  Template Author  : HTML Codex
 
   =>  Author Website   : https://htmlcodex.com
+
+  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
